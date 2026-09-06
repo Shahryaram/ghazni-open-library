@@ -1,45 +1,43 @@
-# Contributor Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+## Purpose
 
-We as members, contributors, and maintainers of Ghazni Open Library pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Ghazni Open Library is a public, educational, open-source project. This Code of Conduct exists to keep it a respectful, welcoming space for everyone who wants to learn, contribute, or help preserve and share knowledge about Ghazni's history, culture, and the Ghaznavid civilization — regardless of background, nationality, language, religion, or level of experience.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community dedicated to the preservation and open sharing of knowledge.
+## Expected Behavior
 
-## Our Standards
+- Be respectful and constructive in discussions, issues, and pull requests.
+- Assume good faith. Most disagreements come from different information or perspective, not bad intent.
+- Base contributions and claims on evidence — sources, references, or clearly labeled personal knowledge.
+- Be patient with new contributors, including those who are new to open source, historical research, or writing in English.
+- Give credit where it's due when using or building on someone else's work or sources.
 
-Examples of behavior that contributes to a positive environment include:
+## Unacceptable Behavior
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes
-- Focusing on what is best for the community and the project's educational mission
-- Respecting the cultural and historical sensitivity of the materials in this archive
+- Harassment, insults, or personal attacks directed at any contributor.
+- Discriminatory language or behavior based on ethnicity, nationality, religion, gender, language, or political affiliation.
+- Deliberately submitting false, misleading, or unsourced information as fact.
+- Submitting content that violates copyright or that you do not have the right to share.
+- Using this project or its spaces to promote hate, violence, or political propaganda.
 
-Examples of unacceptable behavior include:
+## Respectful Collaboration
 
-- The use of sexualized language or imagery, and unwelcome sexual attention
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information without explicit permission
-- Deliberately submitting false, plagiarized, or misattributed sources
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+Ghazni's history involves different communities, perspectives, and sometimes contested narratives. Contributors are expected to:
 
-## Enforcement Responsibilities
+- Present differing perspectives fairly, with sources, rather than erasing or dismissing them.
+- Discuss disagreements about content on their merits, in issues or pull request comments, rather than through personal conflict.
+- Keep the shared goal in mind: building an accurate, accessible, and open resource for everyone.
 
-Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+## Reporting
 
-Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned with this Code of Conduct.
+If you experience or witness behavior that violates this Code of Conduct, please report it by:
 
-## Scope
+- Opening a private issue or contacting the maintainers directly at [your-contact-email]
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
+Reports will be handled as confidentially as possible. Please include relevant details — what happened, where, and any links or screenshots to help us respond appropriately.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly. All maintainers are obligated to respect the privacy and security of the reporter of any incident.
+Project maintainers are responsible for clarifying and enforcing this Code of Conduct. Depending on the severity and pattern of behavior, responses may include a private warning, temporary restriction from participating, or removal from the project's spaces. Maintainers will apply this fairly and consistently.
 
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+This Code of Conduct may be updated over time as the project grows.
