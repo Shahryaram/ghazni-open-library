@@ -1,36 +1,61 @@
 # Contributing to Ghazni Open Library
 
-Thank you for your interest in contributing! Ghazni Open Library is an open, community-driven archive, and contributions of all kinds are welcome — from adding sources and translations to fixing typos and improving the website.
+Thank you for considering a contribution. This project depends on people sharing research, sources, corrections, translations, and technical help. Contributions of all sizes are welcome — from fixing a typo to submitting a full bibliography.
 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Ways to Contribute
+## What Kinds of Contributions Are Welcome
 
-- **Sources & references** — Add historical, cultural, or archival materials about Ghazni and the Ghaznavid civilization, with proper attribution.
-- **Translations** — Translate existing materials or interface text into other languages.
-- **Corrections** — Fix factual errors, broken links, misattributions, or typos.
-- **Technical improvements** — Improve the website's code, structure, accessibility, or performance.
-- **Documentation** — Improve guides, help pages, and this contribution process.
+- **Sources and references** — books, academic papers, archival documents, oral histories, maps, or reputable articles related to Ghazni's history, culture, and the Ghaznavid civilization.
+- **Corrections** — fixing factual errors, broken links, outdated information, or unclear descriptions.
+- **Translations** — helping translate content between Pashto, Dari, English, or other relevant languages.
+- **Research gap notes** — flagging topics that are missing, under-documented, or need more sources.
+- **Design and code** — improvements to the website itself: structure, accessibility, performance, styling.
+- **Ideas** — suggestions for features, formats (podcasts, video, summaries), or structure.
 
-## How to Contribute
+## Suggesting Sources, References, Links, or Translations
 
-1. **Fork** this repository to your own GitHub account.
-2. **Create a branch** for your change: `git checkout -b my-contribution`.
-3. **Make your changes**, keeping commits focused and clearly described.
-4. **Cite your sources** when adding research materials, including author, title, and origin where possible.
-5. **Open a pull request** against the `main` branch with a clear description of what you changed and why.
+1. Open a new Issue describing what you'd like to add or change.
+2. Include as much detail as you can:
+   - The source itself (title, author, publication, link, or file if you have the right to share it)
+   - Why it's relevant
+   - Any translation notes, if applicable
+3. If you're not sure whether something fits, open the issue anyway and ask — that's what issues are for.
 
-## Guidelines for Sources
+## How to Open an Issue
 
-- Only submit materials you have the right to share, or that are in the public domain / openly licensed.
-- Provide accurate attribution and, where possible, links to the original source.
-- Do not submit plagiarized, fabricated, or misattributed content.
-- Be mindful of the cultural and historical sensitivity of the materials.
+- Go to the Issues tab of this repository.
+- Click **New Issue**.
+- Use a clear, short title describing the topic (e.g., "Add source: 1980s oral history collection on Ghazni").
+- In the description, explain what you're proposing and why.
 
-## Review & Deployment
+## How to Submit a Pull Request
 
-Maintainers will review pull requests for accuracy, licensing, and fit with the project's mission. Once a contribution is merged into `main`, it is automatically built and published to the live site via Netlify.
+1. Fork this repository.
+2. Create a new branch for your change (e.g., `add-source-oral-history` or `fix-typo-readme`).
+3. Make your changes.
+4. Write a clear commit message describing what you changed and why.
+5. Open a pull request against the `main` branch, referencing any related issue.
+6. Be ready to discuss or revise your submission based on feedback — this is a normal part of collaborative review, not a rejection.
+
+## Style Expectations
+
+- Write clearly and concisely.
+- Cite sources wherever possible. If a claim is based on personal or community knowledge rather than a written source, say so explicitly.
+- Avoid unsupported claims, speculation presented as fact, or politically one-sided framing. When perspectives differ, note that they differ.
+- Keep translations as faithful to the original meaning as possible; note where a translation is approximate.
+
+## Copyright
+
+Only submit material that you have the right to share. This includes:
+
+- Public domain material
+- Material you created yourself
+- Material you have explicit permission to share
+- Material properly cited and used under fair use for educational, non-commercial purposes, with a link back to the original source
+
+Do not submit copyrighted material (full text of books, articles, images, etc.) that you do not have the right to redistribute. When in doubt, link to the original source instead of copying its content.
 
 ## Questions
 
-If you are unsure about anything, open an issue to start a discussion before submitting a large change. We are happy to help.
+If anything here is unclear, open an issue and ask. New contributors — including those new to open source or to historical research — are genuinely welcome.
