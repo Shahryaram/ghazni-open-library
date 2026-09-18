@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Form registration</title>
+    <meta name="robots" content="noindex" />
+  </head>
+  <body>
+    <!--
+      This file exists only so the Netlify build can detect the form and create
+      its submission endpoint. TanStack Start renders the real form with React,
+      which the build-time scanner never sees. It is not linked from the site,
+      and the React form POSTs to this path.
+    -->
+    <form name="source-suggestion" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <input type="hidden" name="form-name" value="source-suggestion" />
+      <input type="text" name="title" />
+      <input type="text" name="author" />
+      <input type="text" name="material-type" />
+      <input type="text" name="category" />
+      <input type="text" name="source-link" />
+      <textarea name="notes"></textarea>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="text" name="bot-field" />
+    </form>
+  </body>
+</html>

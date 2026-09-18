@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" role="img" aria-label="Shahryar Virtual Library">
+  <rect width="60" height="60" rx="10" fill="#0d2a1e"/>
+  <circle cx="30" cy="30" r="24" fill="none" stroke="#b8923f" stroke-width="2"/>
+  <path d="M30 12 L47 33 L38.5 33 L38.5 49 L21.5 49 L21.5 33 L13 33 Z" fill="none" stroke="#d9b968" stroke-width="2.4" stroke-linejoin="round"/>
+  <circle cx="30" cy="25" r="3" fill="#d9b968"/>
+</svg>
